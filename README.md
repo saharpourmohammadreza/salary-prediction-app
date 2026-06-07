@@ -66,7 +66,7 @@ The model is trained on the **Stack Overflow Developer Survey 2022 dataset** and
 
 ```bash
 git clone https://github.com/saharpourmohammadreza/salary-prediction-app.git
-cd your-repo
+cd salary-prediction-app
 ```
 
 2. Install dependencies:
